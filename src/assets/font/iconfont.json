@@ -1,0 +1,37 @@
+{
+  "id": "2425812",
+  "name": "Vuejs",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11491739",
+      "name": "密码",
+      "font_class": "zu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "8655886",
+      "name": "隐藏密码",
+      "font_class": "yincangmima",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "14660382",
+      "name": "显示密码",
+      "font_class": "xianshimima",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "677608",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}
